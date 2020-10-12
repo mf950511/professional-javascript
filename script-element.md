@@ -1,3 +1,12 @@
+---
+title: "script不为人知的标签属性"
+date: "2020-09-23"
+name: 'francis'
+age: '24'
+tags: [JavaScript回顾]
+categories: JavaScript
+---
+
 # script不为人知的标签属性
 
 ## 普通引用

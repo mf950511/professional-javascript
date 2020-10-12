@@ -1,3 +1,12 @@
+---
+title: "符号类型(symbol)"
+date: "2020-09-23"
+name: 'francis'
+age: '24'
+tags: [JavaScript回顾]
+categories: JavaScript
+---
+
 # 符号类型(symbol)
 
 - Symbol是ES6新增的一种数据类型，用以标识独一无二的类型，所有的Symbol实例都是独一无二的

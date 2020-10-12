@@ -1,3 +1,12 @@
+---
+title: "字符串模板标记函数"
+date: "2020-09-23"
+name: 'francis'
+age: '24'
+tags: [JavaScript回顾]
+categories: JavaScript
+---
+
 # 字符串模板标记函数
 
 ## 字符串模板

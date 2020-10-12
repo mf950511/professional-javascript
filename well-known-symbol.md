@@ -1,3 +1,12 @@
+---
+title: "Well-Known Symbols"
+date: "2020-09-23"
+name: 'francis'
+age: '24'
+tags: [JavaScript回顾]
+categories: JavaScript
+---
+
 # Well-Known Symbols
 
 - well-known symbols 是es6引入的在整个javascript中使用的一系列方法，用于直接访问、重写、模拟语言内部的一系列行为。这些方法或者说符号以字符串属性存在于Symbol的工厂函数上。
