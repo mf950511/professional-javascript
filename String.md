@@ -27,7 +27,7 @@ console.log(String.fromCharCode(97, 98, 99, 100, 101)) // "abcde"
 - 对于在U+0000~U+FFFF范围内的字符，length、charAt()、charCodeAt()、fromCharCode()都可以正常运行
 - 当拓展到Unicode增补字符平面就不行了，上面的16位只能标识65536个字符，这些表示基本多语言平面，为了表示更多的字符，采用了每个字符使用另外16位去选择一个增补平面。这种每个字符使用两个16位码元的策略称为代理对
 - 当我们对含有代理对编码的字符串就会有问题，如下
-
+<!--more-->
 ```js
 let message = 'ab😊de'
 console.log(message.length)     // 6

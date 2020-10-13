@@ -25,7 +25,7 @@ categories: JavaScript
 let msg = 'hello'
 eval("console.log(msg)") // 'hello'
 ```
-
+<!--more-->
 - 可以在eval中定义函数或变量，然后在外面引用
 
 ```js

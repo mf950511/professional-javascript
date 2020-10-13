@@ -24,7 +24,7 @@ console.log(typeof sm1) // symbol
 let sm2 = Symbol('test')
 console.log(sm2) // Symbol('test')
 ```
-
+<!--more-->
 - 每一个Symbol实例都不相同，如下实验
 
 ```js

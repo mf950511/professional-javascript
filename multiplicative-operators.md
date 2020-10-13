@@ -28,7 +28,7 @@ categories: JavaScript
 - 0 除以 0 得 NaN
 - Infinity 除以 任何数都得 Infinity 或者 -Infinity ，符号由除数决定
 - 如果其中一个操作符为非数值，则被Number()转为数值参与计算
-
+<!--more-->
 ## 取余
 
 - 取余的计算规则如下

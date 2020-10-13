@@ -29,7 +29,7 @@ console.log(num.toExponential()) // 1e+1
 ```
 
 - toPrecision()会根据你传入的参数决定输出结果，该参数表示结果中的数字的位数，如下
-
+<!--more-->
 ```js
 let num1 = 99
 console.log(num1.toPrecision(1)) // 1e+2

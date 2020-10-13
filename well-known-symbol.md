@@ -19,7 +19,7 @@ categories: JavaScript
 - 语言构造器例如 for await of 利用该符号对应的方法来实现异步迭代。
 - 所以我们可以对一个自定义对象添加该符号方法实现其可被for await of 调用
 - for await of 的调用必须在async 函数下才可以
-
+<!--more-->
 ```js
 var a = { a :1, b: 2 }
 async function b(){

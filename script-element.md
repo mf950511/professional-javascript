@@ -20,7 +20,7 @@ categories: JavaScript
 ## defer
 
 - js加载不会阻塞页面渲染，js加载后不会立即执行，等页面渲染完成后才执行，在 DOMContentLoaded 事件之前执行，有多个 defer 文件时，规范应该是按引入的顺序执行，但实际情况下并不一定按原有顺序执行，所以多个 defer 引入需注意
-
+<!--more-->
 ## charset
 
 - 定义js脚本使用的编码值，大多数浏览器都没有遵守它，无意义
