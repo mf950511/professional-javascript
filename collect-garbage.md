@@ -6,6 +6,7 @@ age: '24'
 tags: [JavaScript回顾]
 categories: JavaScript
 ---
+# javascript中的垃圾回收
 
 - javascript中的垃圾回收历史有两种，一种是最常用的标记清除，一种是不常用的引用计数清除法。
 
