@@ -23,7 +23,7 @@ categories: JavaScript
 
 - XML空间文档可以实现在一个格式规范的文档中混用不同的XML语言，而不必担心元素命名冲突。严格说XML命名空间在XHTML中才支持，HTML不支持，所以需要使用XHTML做势力
 - 命名空间是使用xmlns指定的。XHTML的命名空间是"http://www.w3.org/1999/xhtml"，应该包含在任何格式规范的XHTML页面的<html>元素中
-
+<!--more-->
 ```js
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>

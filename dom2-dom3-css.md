@@ -30,7 +30,7 @@ for(let i = 0; i < myDiv.style.length; ++i){
   console.log(myDiv.style[i]) // 取得css属性名为"background-color"而不是backgroundColor
 }
 ```
-
+<!--more-->
 - getPropertyValue返回CSS属性值的字符串表示，getPropertyCSSValue返回一个CSSValue对象，包含两个值：cssText和cssValueType。前者跟getPropertyValue返回值一样，后者是一个数值常量，表示当前值类型（0代表继承值，1代表原始值，2代表列表，3代表自定义值）
 - removeProperty用于从元素样式中删除指定CSS属性，删除后会使用该属性的默认（从其他样式表继承）样式，不确定默认值是什么的情况下，从style属性中删除就会用默认值
 
